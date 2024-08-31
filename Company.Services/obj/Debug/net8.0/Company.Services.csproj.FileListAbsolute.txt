@@ -1,0 +1,17 @@
+D:\Backend\week16\Company.Web\Company.Services\bin\Debug\net8.0\Company.Services.deps.json
+D:\Backend\week16\Company.Web\Company.Services\bin\Debug\net8.0\Company.Services.dll
+D:\Backend\week16\Company.Web\Company.Services\bin\Debug\net8.0\Company.Services.pdb
+D:\Backend\week16\Company.Web\Company.Services\bin\Debug\net8.0\Company.Data.dll
+D:\Backend\week16\Company.Web\Company.Services\bin\Debug\net8.0\Company.Repositiry.dll
+D:\Backend\week16\Company.Web\Company.Services\bin\Debug\net8.0\Company.Repositiry.pdb
+D:\Backend\week16\Company.Web\Company.Services\bin\Debug\net8.0\Company.Data.pdb
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.csproj.AssemblyReference.cache
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.AssemblyInfoInputs.cache
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.AssemblyInfo.cs
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.csproj.CoreCompileInputs.cache
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company..F1B44784.Up2Date
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.dll
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\refint\Company.Services.dll
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.pdb
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\ref\Company.Services.dll

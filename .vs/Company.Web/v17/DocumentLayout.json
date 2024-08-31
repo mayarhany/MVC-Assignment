@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend\\week16\\Company.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\controllers\\departmentcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\departmentcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\departmentcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\departmentcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T16:32:57.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Program.cs",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Program.cs",
+              "RelativeToolTip": "Company.Web\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:12:24.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\DepartmentController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\DepartmentController1\\Index.cshtml",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\DepartmentController1\\Index.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\DepartmentController1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T16:11:54.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController1.cs",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Controllers\\DepartmentController1.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\DepartmentController1.cs",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Controllers\\DepartmentController1.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\DepartmentController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T16:03:47.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T16:02:25.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

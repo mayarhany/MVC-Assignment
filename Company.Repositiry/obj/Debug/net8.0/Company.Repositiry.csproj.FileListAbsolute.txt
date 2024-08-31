@@ -1,0 +1,15 @@
+D:\Backend\week16\Company.Web\Company.Repositiry\bin\Debug\net8.0\Company.Repositiry.deps.json
+D:\Backend\week16\Company.Web\Company.Repositiry\bin\Debug\net8.0\Company.Repositiry.dll
+D:\Backend\week16\Company.Web\Company.Repositiry\bin\Debug\net8.0\Company.Repositiry.pdb
+D:\Backend\week16\Company.Web\Company.Repositiry\bin\Debug\net8.0\Company.Data.dll
+D:\Backend\week16\Company.Web\Company.Repositiry\bin\Debug\net8.0\Company.Data.pdb
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company.Repositiry.csproj.AssemblyReference.cache
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company.Repositiry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company.Repositiry.AssemblyInfoInputs.cache
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company.Repositiry.AssemblyInfo.cs
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company.Repositiry.csproj.CoreCompileInputs.cache
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company..D49A2CC8.Up2Date
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company.Repositiry.dll
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\refint\Company.Repositiry.dll
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company.Repositiry.pdb
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\ref\Company.Repositiry.dll
