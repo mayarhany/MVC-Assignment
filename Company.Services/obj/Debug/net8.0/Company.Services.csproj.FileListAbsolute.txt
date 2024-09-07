@@ -15,3 +15,4 @@ D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services
 D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\refint\Company.Services.dll
 D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.pdb
 D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\ref\Company.Services.dll
+D:\Backend\week16\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.sourcelink.json
