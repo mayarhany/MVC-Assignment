@@ -258,3 +258,4 @@ D:\Backend\week16\Company.Web\Company.Web\bin\Debug\net8.0\runtimes\win\lib\net7
 D:\Backend\week16\Company.Web\Company.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Backend\week16\Company.Web\Company.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\Backend\week16\Company.Web\Company.Web\obj\Debug\net8.0\Company.Web.sourcelink.json
+D:\Backend\week16\Company.Web\Company.Web\bin\Debug\net8.0\AutoMapper.dll

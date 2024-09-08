@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\Backend\\week16\\Company.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08ECD38F-A54F-461B-B0D7-0D93B850F649}|Company.Data\\Company.Data.csproj|d:\\backend\\week16\\company.web\\company.data\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08ECD38F-A54F-461B-B0D7-0D93B850F649}|Company.Data\\Company.Data.csproj|solutionrelative:company.data\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2699736B-55D0-44F7-B4C7-E5413B6BB38D}|Company.Repositiry\\Company.Repositiry.csproj|d:\\backend\\week16\\company.web\\company.repositiry\\repositires\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2699736B-55D0-44F7-B4C7-E5413B6BB38D}|Company.Repositiry\\Company.Repositiry.csproj|solutionrelative:company.repositiry\\repositires\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2699736B-55D0-44F7-B4C7-E5413B6BB38D}|Company.Repositiry\\Company.Repositiry.csproj|d:\\backend\\week16\\company.web\\company.repositiry\\repositires\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2699736B-55D0-44F7-B4C7-E5413B6BB38D}|Company.Repositiry\\Company.Repositiry.csproj|solutionrelative:company.repositiry\\repositires\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0220A80-D0E0-4A1A-8B52-B14C37C9FCC6}|Company.Services\\Company.Services.csproj|d:\\backend\\week16\\company.web\\company.services\\services\\departement\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0220A80-D0E0-4A1A-8B52-B14C37C9FCC6}|Company.Services\\Company.Services.csproj|solutionrelative:company.services\\services\\departement\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0220A80-D0E0-4A1A-8B52-B14C37C9FCC6}|Company.Services\\Company.Services.csproj|d:\\backend\\week16\\company.web\\company.services\\helper\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0220A80-D0E0-4A1A-8B52-B14C37C9FCC6}|Company.Services\\Company.Services.csproj|solutionrelative:company.services\\helper\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2699736B-55D0-44F7-B4C7-E5413B6BB38D}|Company.Repositiry\\Company.Repositiry.csproj|d:\\backend\\week16\\company.web\\company.repositiry\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2699736B-55D0-44F7-B4C7-E5413B6BB38D}|Company.Repositiry\\Company.Repositiry.csproj|solutionrelative:company.repositiry\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0220A80-D0E0-4A1A-8B52-B14C37C9FCC6}|Company.Services\\Company.Services.csproj|d:\\backend\\week16\\company.web\\company.services\\interfaces\\employee\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0220A80-D0E0-4A1A-8B52-B14C37C9FCC6}|Company.Services\\Company.Services.csproj|solutionrelative:company.services\\interfaces\\employee\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2699736B-55D0-44F7-B4C7-E5413B6BB38D}|Company.Repositiry\\Company.Repositiry.csproj|d:\\backend\\week16\\company.web\\company.repositiry\\repositires\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2699736B-55D0-44F7-B4C7-E5413B6BB38D}|Company.Repositiry\\Company.Repositiry.csproj|solutionrelative:company.repositiry\\repositires\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,110 +38,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Repositiry\\Repositires\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Company.Repositiry\\Repositires\\GenericRepository.cs",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Repositiry\\Repositires\\GenericRepository.cs",
-              "RelativeToolTip": "Company.Repositiry\\Repositires\\GenericRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCQAAAAtAAAA",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Repositiry\\Repositires\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Company.Repositiry\\Repositires\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Repositiry\\Repositires\\EmployeeRepository.cs",
+              "RelativeToolTip": "Company.Repositiry\\Repositires\\EmployeeRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:22:53.261Z",
+              "WhenOpened": "2024-09-08T05:41:25.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Company.Web\\Program.cs",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Program.cs",
-              "RelativeToolTip": "Company.Web\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Title": "DocumentSettings.cs",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Services\\Helper\\DocumentSettings.cs",
+              "RelativeDocumentMoniker": "Company.Services\\Helper\\DocumentSettings.cs",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Services\\Helper\\DocumentSettings.cs",
+              "RelativeToolTip": "Company.Services\\Helper\\DocumentSettings.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:18:29.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Repositiry\\Repositires\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Company.Repositiry\\Repositires\\UnitOfWork.cs",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Repositiry\\Repositires\\UnitOfWork.cs",
-              "RelativeToolTip": "Company.Repositiry\\Repositires\\UnitOfWork.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:05:18.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Repositiry\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Company.Repositiry\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Repositiry\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Company.Repositiry\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T05:02:17.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CompanyDbContext.cs",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Data\\Contexts\\CompanyDbContext.cs",
-              "RelativeDocumentMoniker": "Company.Data\\Contexts\\CompanyDbContext.cs",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Data\\Contexts\\CompanyDbContext.cs",
-              "RelativeToolTip": "Company.Data\\Contexts\\CompanyDbContext.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAiwB4AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T04:43:22.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "Company.Web\\Views\\Department\\Create.cshtml",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "Company.Web\\Views\\Department\\Create.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBQAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T02:03:15.192Z",
+              "WhenOpened": "2024-09-08T05:27:41.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Services\\Services\\Departement\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Company.Services\\Services\\Departement\\DepartmentService.cs",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Services\\Services\\Departement\\DepartmentService.cs",
-              "RelativeToolTip": "Company.Services\\Services\\Departement\\DepartmentService.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAA4wD8AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T00:17:41.418Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T05:10:33.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Department\\Update.cshtml",
-              "RelativeDocumentMoniker": "Company.Web\\Views\\Department\\Update.cshtml",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Department\\Update.cshtml",
-              "RelativeToolTip": "Company.Web\\Views\\Department\\Update.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABDAAAA",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T02:06:09.476Z",
+              "WhenOpened": "2024-09-08T04:57:26.972Z",
               "EditorCaption": ""
             },
             {
@@ -160,9 +100,35 @@
               "RelativeDocumentMoniker": "Company.Web\\Controllers\\DepartmentController.cs",
               "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "Company.Web\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAywFMAAAAyAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAtwEcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T16:03:47.11Z",
+              "WhenOpened": "2024-09-08T04:10:02.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:19:14.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Services\\Interfaces\\Employee\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Company.Services\\Interfaces\\Employee\\Dto\\EmployeeDto.cs",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Services\\Interfaces\\Employee\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "Company.Services\\Interfaces\\Employee\\Dto\\EmployeeDto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T00:47:55.298Z",
               "EditorCaption": ""
             }
           ]

@@ -2,6 +2,7 @@ using Company.Data.Contexts;
 using Company.Repositiry.Interfaces;
 using Company.Repositiry.Repositires;
 using Company.Services.Interfaces;
+using Company.Services.Mapping;
 using Company.Services.Services;
 using Microsoft.EntityFrameworkCore;
 
@@ -24,6 +25,10 @@ namespace Company.Web
             //builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IDepartmentService, DepartmentService>();
+            builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+
+            builder.Services.AddAutoMapper(x => x.AddProfile(new EmployeeProfile()));
+            builder.Services.AddAutoMapper(x => x.AddProfile(new DepartmentProfile()));
 
             var app = builder.Build();
 

@@ -1,6 +1,7 @@
 ﻿using Company.Data.Entities;
 using Company.Repositiry.Interfaces;
 using Company.Services.Interfaces;
+using Company.Services.Interfaces.Departement.Dto;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Company.Web.Controllers
@@ -17,6 +18,8 @@ namespace Company.Web.Controllers
         public IActionResult Index()
         {
             var departments = _departmentService.GetAll();
+
+            //TempData.Keep("TextTempMessage");
             return View(departments);
         }
         [HttpGet]
@@ -26,13 +29,15 @@ namespace Company.Web.Controllers
          }
 
         [HttpPost]
-        public IActionResult Create(Department department)
+        public IActionResult Create(DepartmentDto department)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
                     _departmentService.Add(department);
+
+                    TempData["TextTempMessage"] = "Hello from employee index (TempData)";
 
                     return RedirectToAction(nameof(Index));
                 }
@@ -64,7 +69,7 @@ namespace Company.Web.Controllers
             return Details(id, "Update");
         }
         [HttpPost]
-        public IActionResult Update(int? id, Department department)
+        public IActionResult Update(int? id, DepartmentDto department)
         {
             if(department.Id != id.Value)
                 return RedirectToAction("NotFoundPage", null, "Home");

@@ -13,3 +13,4 @@ D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company.Reposi
 D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\refint\Company.Repositiry.dll
 D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company.Repositiry.pdb
 D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\ref\Company.Repositiry.dll
+D:\Backend\week16\Company.Web\Company.Repositiry\obj\Debug\net8.0\Company.Repositiry.sourcelink.json

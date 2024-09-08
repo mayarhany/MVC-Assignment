@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Company.Web.bundle.scp.css"
     },
     {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\Files\\Images\\System.Func`1[System.Guid]-Screenshot (6).png",
+      "PackagePath": "staticwebassets\\Files\\Images\\System.Func`1[System.Guid]-Screenshot (6).png"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\Files\\Images\\System.Func`1[System.Guid]-Screenshot (9).png",
+      "PackagePath": "staticwebassets\\Files\\Images\\System.Func`1[System.Guid]-Screenshot (9).png"
+    },
+    {
       "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
