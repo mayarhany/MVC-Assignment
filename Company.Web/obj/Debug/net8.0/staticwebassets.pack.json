@@ -9,20 +9,356 @@
       "PackagePath": "staticwebassets\\Files\\Images\\System.Func`1[System.Guid]-Screenshot (6).png"
     },
     {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\Files\\Images\\System.Func`1[System.Guid]-Screenshot (8).png",
+      "PackagePath": "staticwebassets\\Files\\Images\\System.Func`1[System.Guid]-Screenshot (8).png"
+    },
+    {
       "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\Files\\Images\\System.Func`1[System.Guid]-Screenshot (9).png",
       "PackagePath": "staticwebassets\\Files\\Images\\System.Func`1[System.Guid]-Screenshot (9).png"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
       "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\daterangepicker\\moment.min.js"
+    },
+    {
       "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
       "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\layout-images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\layout-images\\bg-01.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\layout-images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\layout-images\\icons\\favicon.ico"
     },
     {
       "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -251,6 +587,22 @@
     {
       "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\week16\\Company.Web\\Company.Web\\wwwroot\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\select2\\select2.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Company.Web.Microsoft.AspNetCore.StaticWebAssets.props",

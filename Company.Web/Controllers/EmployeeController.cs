@@ -48,6 +48,7 @@ namespace Company.Web.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Create(EmployeeDto employee)
         {
             try
