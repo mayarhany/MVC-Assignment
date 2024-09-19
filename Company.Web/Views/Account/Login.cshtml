@@ -1,0 +1,43 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+
+
+<form asp-action="Login" method="post" class="login100-form validate-form">
+	<div asp-validation-summary="All"></div>
+	<span class="login100-form-title p-b-49">
+		Login
+	</span>
+
+	<div class="wrap-input100 validate-input m-b-23" data-validate="Email is reauired">
+		<span class="label-input100">Username</span>
+		<input asp-for="Email" class="input100" type="email" placeholder="Type your Email">
+		<span asp-validation-for="Email" class="focus-input100" data-symbol="&#xf206;"></span>
+	</div>
+
+	<div class="wrap-input100 validate-input" data-validate="LastName is required">
+		<span class="label-input100">Password</span>
+		<input asp-for="Password" class="input100" type="password" placeholder="Type your Last Name">
+		<span asp-validation-for="Password" class="focus-input100" data-symbol="&#xf190;"></span>
+	</div>
+
+	<label class="my-5">
+		<input asp-for="RememberMe" type="checkbox" />
+		<span>Keep Me Signed In</span>
+	</label>
+
+	<div class="container-login100-form-btn">
+		<div class="wrap-login100-form-btn">
+			<div class="login100-form-bgbtn"></div>
+			<button class="login100-form-btn">
+				Login
+			</button>
+		</div>
+	</div>
+</form>
+<p class="my-4">Don't Have Account?<a asp-action="SignUp">SignUp Now!</a></p>
+<br />
+<p><a asp-action="ForgetPassword">Forget Password!</a></p>

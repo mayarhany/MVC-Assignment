@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "D:\\Backend\\week16\\Company.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|d:\\backend\\week16\\company.web\\company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA95E4FE-5DA3-44C6-90E1-0A136B770097}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SignUp.cshtml",
               "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Account\\SignUp.cshtml",
               "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\SignUp.cshtml",
               "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Account\\SignUp.cshtml",
               "RelativeToolTip": "Company.Web\\Views\\Account\\SignUp.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T04:53:54.333Z",
+              "WhenOpened": "2024-09-19T04:23:55.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Company.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "DocumentIndex": 0,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T04:32:15.857Z",
+              "WhenOpened": "2024-09-19T04:22:32.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_AuthLayout.cshtml",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
-              "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
-              "RelativeToolTip": "Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACAAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T04:26:37.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SignUpViewModel.cs",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Models\\SignUpViewModel.cs",
-              "RelativeDocumentMoniker": "Company.Web\\Models\\SignUpViewModel.cs",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Models\\SignUpViewModel.cs",
-              "RelativeToolTip": "Company.Web\\Models\\SignUpViewModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T03:42:04.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Company.Web\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Company.Web\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAASAAAA",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAcwH4AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T03:39:09.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Company.Web\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Company.Web\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwDIAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T03:35:58.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Company.Web\\Program.cs",
-              "ToolTip": "D:\\Backend\\week16\\Company.Web\\Company.Web\\Program.cs",
-              "RelativeToolTip": "Company.Web\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAwCkAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T03:04:54.503Z",
               "EditorCaption": ""
             }
           ]
