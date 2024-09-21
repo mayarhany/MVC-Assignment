@@ -55,7 +55,7 @@ namespace Company.Web
                 options.SlidingExpiration = true;
                 options.LoginPath = "/Account/Login";
                 options.LogoutPath = "/Account/Logout";
-                options.AccessDeniedPath = "/Account/AccseeDenied";
+                options.AccessDeniedPath = "/Account/AccessDenied";
                 options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
                 options.Cookie.SameSite = SameSiteMode.Strict;
             });
@@ -74,10 +74,10 @@ namespace Company.Web
             app.UseStaticFiles();
 
             app.UseRouting();
-             
-            app.UseAuthorization();
 
             app.UseAuthentication();
+             
+            app.UseAuthorization();
 
             app.MapControllerRoute(
                 name: "default",

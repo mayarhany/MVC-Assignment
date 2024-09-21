@@ -2,10 +2,12 @@
 using Company.Repositiry.Interfaces;
 using Company.Services.Interfaces;
 using Company.Services.Interfaces.Departement.Dto;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Company.Web.Controllers
 {
+    [Authorize]
     public class DepartmentController : Controller
     {
         private readonly IDepartmentService _departmentService;

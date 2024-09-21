@@ -151,5 +151,10 @@ namespace Company.Web.Controllers
             }
             return View(input);
         }
+
+		public IActionResult AccessDenied()
+		{
+			return View();
+		}
     }
 }
